@@ -55,9 +55,13 @@ public class ErwinDictionary extends Application {
 
     
     public static void connectToDatabase(){
-        final String DB_URL="jdbc:mysql://localhost:3306/erwindictionay";
-        final String USER="root";
-        final String PASS="";
+        final String DB_URL="jdbc:mysql://sql6.freesqldatabase.com:3306/sql6528375";
+        final String USER="sql6528375";
+        final String PASS="UdJtpjMIlq";
+        
+        //final String DB_URL="jdbc:mysql://localhost:3306/erwindictionay";
+        // final String USER="root";
+        // final String PASS="";
 
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");

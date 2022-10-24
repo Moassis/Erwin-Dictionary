@@ -6,45 +6,18 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch ErwinDictionary",
-            "request": "launch",
-            "mainClass": "ErwinDictionary",
-            "projectName": "Erwin Dictionary_d030ac3e"
-        },
-        {
-            "type": "java",
-            "name": "Launch ErwinDictionary",
-            "request": "launch",
-            "mainClass": "ErwinDictionary",
-            "projectName": "Erwin Dictionary_c2287d6c"
-        },
-        {
-            "type": "java",
-            "name": "Launch ErwinDictionary",
-            "request": "launch",
-            "mainClass": "ErwinDictionary",
-            "projectName": "Erwin Dictionary_8278dd78"
-        },
-        {
-            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Launch App",
-            "request": "launch",
-            "mainClass": "App",
-            "projectName": "Erwin Dictionary_8449e4e9"
-        },
-        {
-            "type": "java",
             "name": "Launch ErwinDictionary",
             "request": "launch",
             "mainClass": "ErwinDictionary",
-            "projectName": "Erwin Dictionary_8449e4e9",
-            "vmArgs": "--module-path C:/JavaProjects/Javafx/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml"
+            "projectName": "Erwin Dictionary_8278dd78",
+            "vmArgs": "--module-path C:/Java/Javafx/openjfx-19_windows-x86_bin-sdk/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml"
         }
+
     ]
 }
